@@ -40,18 +40,8 @@ game.resources = [
         "src": "data/map/level04.tmx"
     },
     {
-        "name": "level05",
-        "type": "tmx",
-        "src": "data/map/level05.tmx"
-    },
-    {
-        "name": "level03",
-        "type": "tmx",
-        "src": "data/map/level03.json"
-    },
-    {
         "name": "dst-inertexponent",
         "type": "audio",
         "src": "data/bgm/"
-    },
+    }
 ];
